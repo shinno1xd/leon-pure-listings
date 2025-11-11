@@ -160,19 +160,6 @@ const PropertyDetails = () => {
               </CardContent>
             </Card>
 
-            <Card>
-              <CardContent className="pt-6">
-                <h2 className="text-xl font-semibold mb-4">Entre em Contato</h2>
-                <div className="space-y-3">
-                  <Button className="w-full" size="lg">
-                    Agendar Visita
-                  </Button>
-                  <Button variant="outline" className="w-full" size="lg">
-                    Enviar Mensagem
-                  </Button>
-                </div>
-              </CardContent>
-            </Card>
           </div>
         </div>
       </div>
