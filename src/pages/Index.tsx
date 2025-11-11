@@ -92,9 +92,9 @@ const Index = () => {
       <section id="sobre" className="py-16 bg-muted/50">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
-            <h2 className="text-4xl font-bold mb-6">Sobre a Imobiliária Leon</h2>
+            <h2 className="text-4xl font-bold mb-6">Sobre a Imobiliária Renan</h2>
             <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-              Há mais de 20 anos no mercado imobiliário, a Imobiliária Leon se destaca pela
+              Há mais de 20 anos no mercado imobiliário, a Imobiliária Renan se destaca pela
               excelência no atendimento e pela qualidade dos imóveis que oferecemos. Nossa
               missão é ajudar você a encontrar o lar perfeito ou o investimento ideal.
             </p>
@@ -119,7 +119,7 @@ const Index = () => {
               <div className="text-center p-6 rounded-lg bg-card border border-border">
                 <Mail className="h-12 w-12 mx-auto mb-4 text-primary" />
                 <h3 className="text-xl font-semibold mb-2">Email</h3>
-                <p className="text-muted-foreground">contato@imobiliarialeon.com.br</p>
+                <p className="text-muted-foreground">contato@imobiliariarenan.com.br</p>
               </div>
               <div className="text-center p-6 rounded-lg bg-card border border-border">
                 <MapPin className="h-12 w-12 mx-auto mb-4 text-primary" />
@@ -131,12 +131,12 @@ const Index = () => {
               <div className="text-center p-6 rounded-lg bg-card border border-border">
                 <Instagram className="h-12 w-12 mx-auto mb-4 text-primary" />
                 <h3 className="text-xl font-semibold mb-2">Instagram</h3>
-                <p className="text-muted-foreground">@imobiliarialeon</p>
+                <p className="text-muted-foreground">@imobiliariarenan</p>
               </div>
               <div className="text-center p-6 rounded-lg bg-card border border-border">
                 <Facebook className="h-12 w-12 mx-auto mb-4 text-primary" />
                 <h3 className="text-xl font-semibold mb-2">Facebook</h3>
-                <p className="text-muted-foreground">/imobiliarialeon</p>
+                <p className="text-muted-foreground">/imobiliariarenan</p>
               </div>
             </div>
           </div>
@@ -146,7 +146,7 @@ const Index = () => {
       <footer className="bg-foreground text-background py-8">
         <div className="container mx-auto px-4 text-center">
           <p className="text-sm">
-            © 2025 Imobiliária Leon. Todos os direitos reservados.
+            © 2025 Imobiliária Renan. Todos os direitos reservados.
           </p>
         </div>
       </footer>
